@@ -1,0 +1,16 @@
+﻿{
+  "catalog_version": "1.0",
+  "updated_at": "2026-05-09T00:00:00Z",
+  "categories": [
+    {
+      "id": "fmcg",
+      "name": "FMCG",
+      "path": "categories/fmcg.json"
+    },
+    {
+      "id": "construction",
+      "name": "Construction",
+      "path": "categories/construction.json"
+    }
+  ]
+}

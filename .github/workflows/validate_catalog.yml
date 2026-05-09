@@ -1,0 +1,20 @@
+﻿name: Validate Catalog JSON
+
+on:
+  push:
+    paths:
+      - 'catalog/v1/catalog.json'
+  pull_request:
+    paths:
+      - 'catalog/v1/catalog.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON parse
+        run: jq empty catalog/v1/catalog.json
+      - name: Validate required top-level keys
+        run: |
+          jq -e '.catalog_version and .updated_at and (.categories | type == "array")' catalog/v1/catalog.json > /dev/null
