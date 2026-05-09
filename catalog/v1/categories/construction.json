@@ -19,7 +19,7 @@
                          "batch_tracking":  true,
                          "is_active":  true,
                          "warranty_months":  0,
-                         "image_url":  "https://dummyimage.com/300x300/f1ede6/2b2118\u0026text=OPC+Cement+50kg"
+                         "image_url":  "https://raw.githubusercontent.com/Thebored1/retailsaas-catalog/main/catalog/v1/images/construction_opc_cement_50kg.png"
                      }
                  ]
 }

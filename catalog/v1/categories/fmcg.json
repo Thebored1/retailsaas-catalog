@@ -19,7 +19,7 @@
                          "batch_tracking":  true,
                          "is_active":  true,
                          "warranty_months":  0,
-                         "image_url":  "https://dummyimage.com/300x300/e8f1ff/1f2937\u0026text=Tea+250g"
+                         "image_url":  "https://raw.githubusercontent.com/Thebored1/retailsaas-catalog/main/catalog/v1/images/fmcg_tea_250g.png"
                      }
                  ]
 }
