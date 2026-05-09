@@ -1,24 +1,25 @@
 ﻿{
-  "category_id": "construction",
-  "products": [
-    {
-      "external_id": "construction:opc_cement_50kg",
-      "name": "OPC Cement 50kg",
-      "hsn_code": "2523",
-      "gst_rate": 28,
-      "cess_rate": 0,
-      "uom": "bag",
-      "mrp": 420,
-      "selling_price": 410,
-      "purchase_rate": 355,
-      "low_stock_limit": 25,
-      "is_tax_inclusive": true,
-      "is_exempt": false,
-      "is_infinite_stock": false,
-      "is_loose_item": false,
-      "batch_tracking": true,
-      "is_active": true,
-      "warranty_months": 0
-    }
-  ]
+    "category_id":  "construction",
+    "products":  [
+                     {
+                         "external_id":  "construction:opc_cement_50kg",
+                         "name":  "OPC Cement 50kg",
+                         "hsn_code":  "2523",
+                         "gst_rate":  28,
+                         "cess_rate":  0,
+                         "uom":  "bag",
+                         "mrp":  420,
+                         "selling_price":  410,
+                         "purchase_rate":  355,
+                         "low_stock_limit":  25,
+                         "is_tax_inclusive":  true,
+                         "is_exempt":  false,
+                         "is_infinite_stock":  false,
+                         "is_loose_item":  false,
+                         "batch_tracking":  true,
+                         "is_active":  true,
+                         "warranty_months":  0,
+                         "image_url":  "https://dummyimage.com/300x300/f1ede6/2b2118\u0026text=OPC+Cement+50kg"
+                     }
+                 ]
 }

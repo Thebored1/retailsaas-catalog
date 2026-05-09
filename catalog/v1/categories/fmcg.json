@@ -1,24 +1,25 @@
 ﻿{
-  "category_id": "fmcg",
-  "products": [
-    {
-      "external_id": "fmcg:tea_250g",
-      "name": "Tea Powder 250g",
-      "hsn_code": "0902",
-      "gst_rate": 5,
-      "cess_rate": 0,
-      "uom": "pcs",
-      "mrp": 120,
-      "selling_price": 115,
-      "purchase_rate": 95,
-      "low_stock_limit": 10,
-      "is_tax_inclusive": true,
-      "is_exempt": false,
-      "is_infinite_stock": false,
-      "is_loose_item": false,
-      "batch_tracking": true,
-      "is_active": true,
-      "warranty_months": 0
-    }
-  ]
+    "category_id":  "fmcg",
+    "products":  [
+                     {
+                         "external_id":  "fmcg:tea_250g",
+                         "name":  "Tea Powder 250g",
+                         "hsn_code":  "0902",
+                         "gst_rate":  5,
+                         "cess_rate":  0,
+                         "uom":  "pcs",
+                         "mrp":  120,
+                         "selling_price":  115,
+                         "purchase_rate":  95,
+                         "low_stock_limit":  10,
+                         "is_tax_inclusive":  true,
+                         "is_exempt":  false,
+                         "is_infinite_stock":  false,
+                         "is_loose_item":  false,
+                         "batch_tracking":  true,
+                         "is_active":  true,
+                         "warranty_months":  0,
+                         "image_url":  "https://dummyimage.com/300x300/e8f1ff/1f2937\u0026text=Tea+250g"
+                     }
+                 ]
 }
